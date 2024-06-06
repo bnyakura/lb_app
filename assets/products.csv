@@ -1,0 +1,429 @@
+sku,name,Price
+SDC25OF,Cummins 25kva Diesel 3ph Open Frame Generator,11200
+ELQ40S,Perkins 40kva Cummins Silent 3phase Generator,12857
+ELQ60OF,Elepaq 60kva Open Frame Cummins 3ph Generator,13485
+SDC60OF,Cummins 63kva Diesel 3ph Open Frame Generator,13485
+SDC100OF,Cummins 100kva Diesel 3ph Open Frame Generator,16130
+SDC60,Cummins 60kva Diesel 3ph Silent Generator,17140
+SDC160OF,Cummins 160kva Diesel 3ph Open Frame Generator,22987
+NX30E3,NEXUS 30KVA 3PHASE OPEN FRAME 1500RPM GENERATOR,7217
+NX45E3,NEXUS 43KVA 3PHASE OPEN FRAME 1500RPM GENERATOR,9500
+NX75E3,NEXUS 62.5KVA 3PHASE OPEN FRAME 1500RPM GENERATOR,10228
+NX100E3,NEXUS 85KVA 3PHASE OPEN FRAME 1500RPM GENERATOR,12527
+NX120E3,NEXUS 115KVA 3PHASE OPEN FRAME 1500RPM GENERATOR,15591
+NX6500E,Nexus 5kva Diesel 1ph Open Frame Generator,968
+NX6500E3,Nexus 5.5kva Diesel 3ph Open Frame Generator,1033
+NX16SS,Nexus 13kva Diesel 1phase Super Silent Generator,6188
+NX45SS3,Nexus 43kva Diesel 3phase Super Silent Generator,10560
+NX75SS3,Nexus 62.5kva Diesel 3phase Super Silent Generator,12558
+NX12STA3,NEXUS 8.5KVA DIESEL 3PH SILENT GENERATOR,3372
+NX1500,Nexus Generator 1.1kva 1ph Four Stroke,180
+NX2700,Nexus 2.0 – 2.5kva Petrol 1ph Generator,359
+NX6500,Nexus 5.0kva Petrol 1ph Generator,720
+EPD13PS,Perkins 13kva Diesel 1ph Silent Generator,10651
+EPD45PS3,Perkins 45kva Diesel 3ph Silent Generator,16661
+NX7.2AH,NEXUS 7.2AH SEALED MAINTENANCE FREE BATTERY,15
+NX12AH,Nexus 12ah Smf Deep Cycle Battery,20
+NX18AH,Nexus 18 Ah Battery,30
+NX36AH,Nexus 36ah Battery,63
+NX70AH,Nexus 70 Ah Battery,126
+NX100AH,Nexus 100 Ah Smf Deep Cycle Battery,170
+PCK,Pylontech Cable Kit For Us2000 Or Us3000,32
+PBB2000,Pylontech Battery Bracket For Us2000,65
+MP500,PYLON MP500 12V BATTERY BANK LITHIUM ION,432
+LVH,PYLON LV HUB FOR US2000 – US3000,815
+US3000C,Pylon Us3000c 74ah 48v 3.5kwh Lithium Ion Battery,1195
+NX6A12V,Nexus 6a 12v Battery Charger,17
+NX10A12V,Nexus 10a 12v Battery Charger,18
+NX20A12V,Nexus 20a 12v Battery Charger,30
+NX20A24V,Nexus 20a 24v Battery Charger,59
+NAX1KVA,Nexus Off Grid 1kva Inverter 12v Naxvp100012,225
+NAX3KVA48V,NEXUS OFFGRID 3KVA INVERTER 48V NAXMKS300048+,405
+MKS5KVA,NEXUS MKS OFF GRID 5KVA INVERTER 48V,625
+SLK3W,Solar Lighting Kit 3w,25
+SLK10W,Solar Lighting Kit 10w,65
+SLK20W,Solar Lighting Kit 20w,112
+SLK30W,Solar Lighting Kit 30w Panel 6 X 3w Led Bulbs,152
+SCC6A,Solar Charge Controller 6a – 12a,10
+SCC15A,Solar Charge Controller 15a-20a Dy2024,15
+MPPT6A,6a Mppt Solar Charge Controller 12-24v,15
+SCC30A,Solar Charge Controller 30a,30
+MPPT15A,15a Mppt Solar Charge Controller 12-24v,20
+SCC30A48V,Solar Charge Controller 30a 48v,60
+MPPT30A48V,30a Mppt Solar Charge Controller 48v,70
+MPPT20AD,20a Digital Mppt Solar Charge Controller 1224,35
+MPPT30AD48V,30a Digital Mppt Solar Charge Controller 48v,70
+MPPT40A48V,40a Mppt Solar Charge Controller 48v,70
+SGHE,SOLAR GEYSER HEATING ELEMENT GRAVITY 100-200L,16
+SGHEP,SOLAR GEYSER HEATING ELEMENT PRESSURE150-200L,39
+SGDC,SOLAR GEYSER DIGITAL CONTROLLER GRAVITY TK-8A,69
+SG150,Nexus Solar Geyser 150l Non Pressure,349
+SG200,Nexus Solar Geyser 200l Non Pressure,415
+SGP150,Nexus Solar Geyser 150l Pressure,600
+SGP200,Nexus Solar Geyser 200l Pressure,740
+SL,Solar Lantern Nexus Without Fm Radio,27
+SLR,Solar Lantern Nexus With Fm Radio,29
+SSL100W,NEXUS SOLAR STREET LIGHT 100W LED,58
+SSL200W,NEXUS SOLAR STREET LIGHT 200W LED,82
+PC10W,Nexus 10w Poly Crystalline Solar Panel,8
+PC15W,Nexus 15w Poly Crystalline Solar Panel,11
+PC25W,Nexus 25w Poly Crystalline Solar Panel,18
+PC30W,NEXUS POWER 30W POLY CRYSTALLINE SOLAR PANEL,26
+PC55W,Nexus 55w Poly Crystalline Solar Panel,32
+PC75W,Nexus 75w Poly Crystalline Solar Panel,51
+PC90W,Nexus 90w Poly Crystalline Solar Panel,56
+PC110W,Nexus 110w Poly Crystalline Solar Panel,64
+PC140W,Nexus 140w Poly Crystalline Solar Panel,78
+PC180W,Nexus 180w Poly Crystalline Solar Panel,85
+MC335W,NEXUS 335W MONO CRYSTALLINE SOLAR PANEL,90
+MCJ400W,JINKO 400W MONO CRYSTALLINE SOLAR PANEL,160
+MCJ470W,JINKO 470W MONO CRYSTALLINE SOLAR PANEL,185
+BL35MM,Battery Lug 35mm,1
+BL4MM,Battery Lug 4mm,1
+BL6MM,Battery Lug 6mm,1
+DCSC4MMB,Dc Solar Cable 4mm2 1500v Black,2
+DCSC4MMR,Dc Solar Cable 4mm2 1500v Red,2
+MC410MM,Mc4 Connector For 10mm2,4
+MC44MM,Mc4 Connector For 4mm2,4
+MC46MM,Mc4 Connector For 6mm2,4
+MC4S102,Mc4 Spanner,5
+DCBL35MMB,Dc Battery Link 35mm2 Black,7
+DCBL35MMR,Dc Battery Link 35mm2 Red,7
+TBC21,T Branch Connector 2 To 1,9
+YBC21,Y Branch Connector,9
+DCBC35MMR,Dc Battery Cable 35mm2 Red,11
+TBC31,T Branch Connector 3 To 1,13
+SWS001,Solar Wire Stripper,21
+SCT002,Solar Crimping Tool,45
+STK001,Solar Tool Kit 001,74
+STC002,Solar Tool Case 002,95
+DCBP180W,DC BOOSTER PUMP NEXUS 180W 12V 0.25HP,45
+DCBP550W,DC BOOSTER PUMP NEXUS 550W 72V 0.8HP,82
+DCSP48V60,DC SUBMERSIBLE PUMP NEXUS 48V 60M HEAD,128
+DCSP72V70,DC SUBMERSIBLE PUMP NEXUS 72V 70M HEAD,133
+DCSP110V80,DC SUBMERSIBLE PUMP NEXUS 110V 80M HEAD,138
+SUK1600F,Nexus 1600va 24v Inverter,189
+SUK2.524V,Nexus 2.5kva 24vinverter,200
+MKS3.6KVA,NEXUS MKS OFF GRID INVERTER 3.6KVA 48V,600
+MKS5.6KVA,NEXUS MKS OFF GRID INVERTER 5.6KVA 48V,799
+NX150I,Nexus Power 150w Square Wave Inverter,12
+NX220I,Nexus Power 220w Square Wave Inverter,13
+NX660I,Nexus Power 660W Square Wave Inverter,58
+NDP20D,Nexus 2 Inch Diesel Water Pump,395
+NDP30D,Nexus 3 Inch Diesel Water Pump,480
+NDP40D,Nexus 4inch 9hp Diesel Waterpump,575
+WP20X,Nexus 2 Inch 4.0hp Petrol Water Pump,169
+SP0.5HP,Nexus 0.5hp (4sdm3-7) Submersible Pump,122
+SP0.75HP,Nexus 0.75hp (4sdm3-8) Submersible Pump,140
+SP1.5HP,Nexus 1.5hp (4sdm3-15) Submersible Pump,178
+SP2.0HP,Nexus 2.0hp (4sdm3-21) Submersible Pump,211
+SP3.0HP,Nexus 3.0hp (4sdm3-25) Submersible Pump,265
+SP4HP3P,Nexus 4hp (4sd3-40) 3phase Submersible Pump,327
+SP5.5HP3P,Nexus 5.5hp (4sd3-50) 3phase Submersible Pump,394
+SP7.5HP3P,Nexus 7.5hp (4sd3-62) 3phase Submersible Pump,454
+SP10HP3P,Nexus 10hp (4sd3-62) 3phase Submersible Pump,493
+APC,Nexus Automatic Pump Control,23
+BP0.5HP,Nexus 0.5hp (Pkm60) Booster Pump,40
+BP1.0HP,Nexus 1.0hp (Cpm158) Booster Pump,90
+BP1.5HP,Nexus 1.5hp (Cpm180) Booster Pump,136
+BP2.0HP,Nexus 2.0hp (Cpm190) Booster Pump,152
+SBP,SMART BOOSTER PUMP AP750,144
+BP3.0HP,Nexus 3.0hp (Cpm300-4) Booster Pump,210
+NMM750ML,NEXUS MILLING MACHINE WITH 1HP MOTOR,110
+NMM1100ML,NEXUS MILLING MACHINE WITH 1.5HP MOTOR,116
+NCS1100D,NEXUS CORN SHELLER WITH 1.5HP MOTOR 1PH,136
+SPR01,3 Quarter Inch Plastic Male Sprinkler,2
+NX101,Nexus – Molgreen 16 Litre Knapsack Sprayers,11
+OP6YL68,OIL PRESS MACHINE NX6YL-68,850
+SP0.55HPQDX,Qdx1.5-17-035f (0.55hp Sub Well Pump) W F S..,55
+SP1HPQDX,Qdx1.5-32-0.75f (1hp Sub Well Pump) W F S.,82
+SP2HPQD3,Qd3-68.4-1.5 (2hp Slurry Pump 68m Head 1phase,219
+SP4HPQD3,Qd3-128.8-3 (4hp Slurry Pump 128m Head 3ph,344
+SP5.5HP50WQ,50wq12.5-40-4 (5.5hp Sub Sewage) 50mm 3phase,361
+SP7.5HP50WQ,7.5hp Slurry Pump With 50mm Outlet,425
+SP7.5HP80WQ,7.5hp Slurry Pump With 80mm Outlet,435
+SP20HPQY10,20hp Slurry Pump Middle Suction With 200m Head,1155
+WM250A,Nexus 250a Arc Welding Machine,228
+MMA140,Nexus 120a Inverter Welding Machine,113
+MMA200,Nexus 155a Inverter Welding Machine,144
+MMA315,Nexus 220a Inverter Welding Machine,250
+NED500,NEXUS ELETRIC DRILL 10MM 500W,29
+NOS200,NEXUS ORBITAL SANDER 110MMX100MM 200W,33
+NEID710,NEXUS ELECTRIC IMPACT DRILL 13MM 710W,31
+NJS550,NEXUS JIG SAW 65MM 550W,55
+NCS1550,NEXUS CIRCULAR SAW 185MM 1550W,67
+NRH800,NEXUS ROTARY HAMMER 26MM 800W,72
+NCD21,NEXUS CORDLESS DRILL 21V 40NM 10MM,72
+NAG2300,NEXUS ANGLE GRINDER 2300W 230MM,84
+NCAG21,NEXUS CORDLESS ANGLE GRINDER 115MM 21V,123
+NCRH21,NEXUS CORDLESS ROTARY HAMMER 21V 22MM,158
+16SF,Nexus Breeze 16 Inch Standing Fan,18
+R16SF,Rechargeable 16 Inch 2 Speed Fan,48
+26SF,Nexus Breeze 26 Inch Standing Fan,101
+HPC105,Nexus High Pressure Cleaner 70-105bar 1400w,60
+HPC195,Nexus High Pressure Cleaner 130-195bar 2500w,195
+ECOMP25,Electric Compressor 25l,165
+ECOMP100,Electric Compressor 100l,480
+COMP02,Nexus 20hp Piston Air Compressor,1250
+EJH65,Nexus Electric Jack Hammer Nx65 (Nx65a),125
+EJH85,Nexus Electric Jack Hammer Nx85 (Nx150),170
+EW1T,Nexus Electric Winch 1t 110m 9.3mm Rope,2200
+GM1.5,GRINDING MILL 1.5 INCH FOR 20HP OR 22HP ENGINE,545
+HM6B,HAMMER MILL 6 BEATER,272
+HM8B,HAMMER MILL 8 BEATER,370
+HM10B,HAMMER MILL 10 BEATER,436
+BIT01,BIT FOR JACK HAMMER BUTTON BIT 38MM,11
+BIT03,BIT FOR JACK HAMMER CROSS TYPE 38MM,13
+JH20,Nexus Jack Hammer Yt20,170
+JH28,Nexus Jack Hammer Yt28,399
+EM2HP2P3,Electric Motor 2hp 3ph 2pole,84
+EM2HP4P3,Electric Motor 2hp 3ph 4pole,95
+EM3HP2P3,Electric Motor 3hp 3ph 2pole,99
+EM4HP2P3,Electric Motor 4hp 3ph 2pole,124
+EM3HP4P3,Electric Motor 3hp 3ph 4pole,125
+EM3HP4P,Electric Motor 3hp 1ph 4pole,140
+EM5.5HP4P3,Electric Motor 5.5hp 3ph 4pole,172
+EM5.5HP4P,Electric Motor 5.5hp 1ph 4pole,197
+EM15HP2P3,Electric Motor 15hp 3ph 2pole,398
+EM15HP4P3,Electric Motor 15hp 3ph 4pole,398
+EM20HP4P3,Electric Motor 20hp 3ph 4pole,485
+EM40HP2P3,Electric Motor 40hp 3ph 2pole,929
+EM50HP4P3,Electric Motor 50hp 3ph 4pole,1384
+FVH38MM,Nexus Vibrator Head 38mm,110
+FVH60MM,Nexus Vibrator Head 60mm,120
+FCV-R,Nexus Concrete Vibrator,444
+FCC500R,Nexus Concrete Cutter,2200
+MBH,Motor Bike Helmet,17
+MBRB,Motor Bike Rear Loading Box,46
+NX100MB,NEXUS 100CC ONROAD MOTOR BIKE INCL HELMET,850
+NX150MB,Nexus 150cc Offroad Motor Bike Incl Helmet,1199
+ALT8HP,3.5 Kva 1ph Alternator For 8hp Engine (St3.5),305
+ALT20HP,12 Kva 1ph Alternator For 20hp Engine (St12),450
+ALT9KVA3,9.375kva Alternator 3 Phase (Stc-7.5kw),419
+ALT40HP1,24kva 1ph Alternator For 40hp Engine,720
+ALT15KVA3,15kva Alternator 3 Phase (Stc-12kw),515
+ALT28HP2,18kva 3ph Alternator For 28hp Engine (St15),580
+ALT28HP,20-25 Kva 3ph Alternator For 28hp Eng (St20),660
+ALT40HP,24-30 Kva 3ph Alternator For 40hp Eng (St24),650
+CS20HP,CROWNSUPRA 20HP MULTIPURPOSE DIESEL ENGINE,460
+NX8HP,Nexus 8hp Multipurpose Engine R180,280
+NX14HP,Nexus 14hp Multipurpose Engine S195,432
+NX22HP,Nexus 22hp Multipurpose Engine Zs1115,580
+NX28HP,Nexus 28hp Multipurpose Engine Zs1125m,850
+WP2840,Nexus Water Pump For 28hp And 40hp Engine,285
+WP14HP,Nexus Water Pump For 20hp Engine,116
+GHC,Gas Hose Clamps (Each),0.5
+NXBR,Nexus Bullnose Regulator,7
+NXCT,Nexus Gas Cooker Top Nx101,11
+NX1PS,Nexus Single Burner Gas Stove,20
+NX2PS,Nexus 2 Plate Gas Stove,31
+NX9KG,Nexus 9 Kg Gas Cylinder,50
+NX45KG,NEXUS 45KG GAS CYLINDER ECO,130
+TVG,NEXUS TV GUARD 7AMP WITH ISENSE,9
+FG,NEXUS FRIDGE GUARD 7AMP WITH ISENSE,9
+AVS30,NEXUS AUTO VOLTAGE STABILISER AVS30 30A,21
+AVR10KVA,10KVA AUTOMATIC VOLTAGE REGULATOR 1PH,238
+AVR15KVA3,15KVA – 3PHASE AUTOMATIC VOLTAGE REGULATOR,758
+BCTL,Trimmer Line,4
+BCB,Brush Cutter Blade,6
+BC43,Brush Cutter 42cc 1.1kw 2 Stroke,130
+CS20,Nexus 20 Inch 2.7hp Chain Saw,164
+ELQ25SS,Perkins 20kva 1phase Super Silent Generator,6486
+ELQ200OF,Elepaq 200kva Open Frame Cummins 3ph Generator,26617
+SDC160,Cummins 160kva Diesel 3ph Silent Generator,28010
+ELQ350OF,Elepaq 350kva Open Frame Cummins 3ph Generator,41066
+SDC250,Cummins 250kva Diesel 3ph Silent Generator,37011
+SDC750OF,Cummins 750kva Diesel 3ph Open Frame Generator,126860
+NX6V4.5AH,Nexus 6volt 4.5ah Battery,5
+NX200AH,Nexus 200 Ah Battery,345
+NX330I,Nexus Power 330w Square Wave Inverter,34
+MPPT60A48V,60a Mppt Solar Charge Controller 48v,80
+CS22,Nexus 22 Inch 2.7hp Chain Saw,167
+SP0.75HPQDX,Qdx1.5-25-0.55f (0.75hp Sub Well Pump),67
+SP10HPQXNY,Submersible Slurry Pumps 10HP BOTTOM SUCTION 100M 3PH,730
+SP20HPQXNY,Submersible Slurry Pumps 20HP BOTTOM SUCTION 180M 3PH,1750
+DCWP1100W,DC WELL PUMP NEXUS 72V 70M HEAD 1.5HP,147
+OP6YL95,OIL PRESS MACHINE NX6YL-95,2345
+COMP05,CROWNSUPRA 28HP PISTON AIR COMPRESSOR 200L,1720
+COMP03,Nexus 4 PISTON 28hp Compressor 250L,2000
+CH25MM,COMPRESSOR HOSE 25MM 18MTR ROLL,55
+CH25MM50,COMPRESSOR HOSE 25MM 50MTR ROLL,160
+US2000,PYLON US2000 50AH 48V 2.4KWH LITHIUM IRON BATT,800
+UP5000,PYLONTECH UP5000 100AH 48V 4.8KWH LITHIUM ION BAT,1350
+UP2500,Pylontech UP2500 106AH 24V lithium battery,1050
+PBB5000,Pylontech Battery Bracket For US500,90
+SUP1KVA,SUPRA 1KVA 12V 80VDC 60A SMART INVERTER,200
+SUP3KVA,SUPRA 3KVA 24V 145VDC 60A SMART INVERTER,278
+CDB209AH,C AND D BATTERY 12V 209AH,428
+CDB242AH,C AND D BATTERY 12V 242AH,495
+MAX8KVA,Nexus Max OFF GRID INVERTER 8KVA 48V,1299
+ELQC050,Elepaq Screw Type Compressor 180CFM,12289
+ELQC085,Elepaq Screw Type Compressor 300CFM,23448
+MAB150,Nexus Mining Air Blowers 150W 2INCH,80
+MAB22003,Nexus Mining Air Blower 2200W 3PHASE 5INCH,270
+MAB2.23,Nexus Mining Air Blower 2.2KW 3HP 3PHASE,300
+NX20SS3,NEXUS 16.2KVA DIESEL 3 PHASES SILENT GENERATOR,6227
+EPD20PS,Perkins 20kVa Diesel 1 PHASE Silent Generator,12184
+EPD20PS3,Perkins 20kVa Diesel 3 PHASE Silent Generator,11367
+EPD9PS,Perkins 9kVa Diesel 1 PHASE Silent Generator,8781
+SFL60W,Nexus Solar Flood Light 60W LED,40
+SFL,Nexus Solar Flood Light 200W LED,68
+SFL300W,Nexus Solar Flood Light 300W LED,82
+SDC350OF,Cummins 350kva Diesel 3ph Open Frame Generator,43465
+SDC500OF,Cummins 500kva Diesel 3ph Open Frame Generator,72291
+SDC40OF,Cummins 40kva Diesel 3ph Open Frame Generator,12730
+SDC200OF,Cummins 200kva Diesel 3ph Open Frame Generator,26617
+SDC200,Cummins 200kva Diesel 3ph Silent Generator,33307
+HPC135,Nexus High Pressure Cleaner 90-135bar 1600w,76
+SG100,Nexus Solar Geyser 100l Non Pressure,278
+EA52CC,Earth Auger Machine Nexus 52CC,122
+EA62CC,Earth Auger Machine Nexus 62CC,131
+EA72CC,Earth Auger Machine Nexus 72CC,173
+EA72CC2,Earth Auger Machine Nexus 72CC 2 Man,190
+NX120SS3,NEXUS 115KVA 3PHASE Silent Diesel 1500RPM GENERATOR,18261
+NX25SS,Nexus 18.5kva Diesel 1phase Super Silent Generator,7367
+NX35SS3,Nexus 30kva Diesel 3phase Super Silent Generator,7898
+NX100SS3,Nexus 85kva Diesel 3phase Super Silent Generator,14933
+NX13E3,NEXUS 13KVA 3PHASE OPEN FRAME 1500RPM GENERATOR,5187
+NX20E3,NEXUS 16KVA 3PHASE OPEN FRAME 1500RPM GENERATOR,5473
+MC415W,Nexus 415W Mono Crystalline Solar Panel,99
+MCHV400W,Nexus 400w 72v high voltage mono panel,140
+MCJ555W,Jinko 555w mono crystalline solar panel,199
+SDC1000OF,Cummins 1000kva Diesel 3phase Open Frame Generator,175949
+DEYE5KVA,Deye Inverter 5KVA - 48V,1515
+DEYE8KVA,Deye Inverter 8KVA - 48V,2450
+DEYE16KVA,Deye 16KVA 48V Inverter,4618
+ECO20HP,ECO 20HP MULTIPURPOSE DIESEL ENGINE,415
+NTR80F,Nexus Tamping Rammer,950
+NPC90F,Plate Compactor,650
+NSFS18F,Nexus Surface Finishing Screed,600
+MC660W,Nexus 660w mono crystalline solar panel,150
+LIT24100,Nexus 24v 100AH Lithium battery,700
+LIT48200,Nexus 48v 200AH Lithium battery,1990
+LIT48100,Nexus 48v 100AH Lithium battery,1020
+NXLI4.5AH,NEXUS LITHIUM ION BATTERY 6V 4.5AH,15
+NXLI7.2AH,NEXUS LITHIUM ION BATTERY 12V 7.2AH,32
+NXLI18AH,NEXUS LITHIUM ION BATTERY 12V 18AH,70
+NXLI50AH,NEXUS LITHIUM ION BATTERY 12V 50AH,160
+NXLI100AH,NEXUS LITHIUM ION BATTERY 12V 100AH,260
+NXLI150AH,NEXUS LITHIUM ION BATTERY 12V 150AH,380
+NXLI200AH,NEXUS LITHIUM ION BATTERY 12V 200AH,480
+NXT200MB,Nexus 200CC Tricycle Motor Bike Incl Helmet,2650
+6BF,Frame For 6 Beater Hammer Mill,133
+8BF,Frame For 8 Beater Hammer Mill,133
+AVR30KVA3,30kva - 3Phase Automatic Voltage Regulator,1029
+COMP06,Eco 20hp Piston Air Compressor 200l,1100
+DCSP0.16HP,Nexus DC Sub Pump 0.16hp With Controller,463
+DCSP0.28HP,Nexus DC Sub Pump 0.28hp With Controller,510
+DCSP0.67HP100,Nexus DC Sub Pump 0.67HP with Controller 100M,518
+DCSP0.67HP70,Nexus DC Sub Pump 0.67HP with Controller 70M,537
+DCSP1.34HP,Nexus DC Sub Pump 1.34HP with Controller,654
+DCSP280V160,DC Submersible Pump Nexus 280v 160m Head,247
+DCSP280V190,DC Submersible Pump Nexus 280v 190m Head,258
+ECO28HP,ECO 28HP MULTIPURPOSE DIESEL ENGINE,650
+ECO40HP,ECO 40HP MULTIPURPOSE DIESEL ENGINE,750
+ELQC035,Elepaq Screw Type Compressor 123CFM,9284
+EM1HP2P,Electric Motor 1hp 2 Pole Single Phase,75
+EM2HP2P,Electric Motor 2hp 2 Pole Single Phase,90
+EM3HP2P,Electric Motor 3hp 2 Pole Single Phase,115
+EM4HP2P,Electric Motor 4hp 2 Pole Single Phase,138
+HPWP28HP,Nexus High Pressure Water Pump For 28hp And 40hp Engine,440
+HPWP40HP,Nexus High Pressure Water Pump For 40hp Engine,440
+LITBB100,Battery Bracket For 24+48V 100AH NEXUS,40
+LITBB200,Battery Bracket For 48V 200AH NEXUS,40
+NAX2KVA,Nexus Off Grid 2kva Inverter 24v NAXVP200024,310
+NAX5KVA,Nexus Off Grid 5kva Inverter 48v NAXVM500048,625
+NMM140W,NEXUS MILLING MACHINE Wet M140W,148
+NMM150D,NEXUS MILLING MACHINE Dry M150D,155
+NMM160W,NEXUS MILLING MACHINE Wet Type 2 M160W,198
+NSB,Nexus Screed Blade,200
+PP25MM,Polypipe 25MM Class 6 per 100M Roll,35
+PP40MM,Polypipe 40MM Class 6 per 100M Roll,57
+PP50MM,Polypipe 40MM Class 6 per 100M Roll,75
+PP63MM,Polypipe 63MM Class 6 per 100M Roll,115
+PP75MM,Polypipe 75MM Class 3 per 100M Roll,26
+PP110MM,Polypipe 110MM Class 6 per 100M Roll,36
+SUP3KVAPRO,SUPRA 3KVA PRO 24V 450VDC 80A SMART INVERTER,415
+SUP5.2KVA,SUPRA 5.2KVA 48V 450VDC 80A SMART INVERTER,460
+UP5000-1,PYLONTECH UF5000 100AH 48V 4.8KWH LITHIUM ION BAT,1350
+SP2HPQDX6,Qdx6-44/3-1.5AF(2hp Sub Well Pump) W F S. 50MM OUTLET,146
+WPB501402,WATER PUMP FOR 8HP ENGINE B50-140-2,103
+WP8HP,NEXUS WATER PUMP FOR 14HP ENGINE,145
+GG6L,Gas Geyser 6L Low Water Pressure,129
+GG8L,Gas Geyser 8L Low Water Pressure,164
+GG10L,Gas Geyser 10L Low Water Pressure,185
+GG12L,Gas Geyser 12L Low Water Pressure,220
+GG14L,Gas Geyser 14L Low Water Pressure,281
+GG16L,Gas Geyser 16L Low Water Pressure,312
+GGWP,Gas Geyser Water Pipe Hot or Cold,3
+GGCT10L,Gas Geyser10 L Constant Temperature,263
+GGCT16L,Gas Geyser 16L Constant Temperature,349
+GGFP10L,Gas Geyser Flue Pipe For 10L,7
+FT7HP,Nexus Farm Tiller 7hp,396
+FT13HP,Nexus Farm Tiller Machine 13hp,610
+FTR ,Farm Tiller Ridger,91
+FTRB ,Farm Tiller Round Blade,10
+FTFP ,Farm Tiller Furrow Plow,62
+FTPDB,Farm Tiller Potato Ditching Blade,23
+SDC40,Cummins 40kva Diesel 3ph Open Frame Generator,0
+SDC125OF,Cummins 125kva Diesel 3ph Open Frame Generator,19639
+NX60SS3,Nexus 50kva Diesel 3phase Super Silent Generator,11376
+NX6500T,Nexus 5kva Diesel Generator 1phase Silent,1152
+NX12STA,NEXUS 8.5KVA DIESEL 1PH SILENT GENERATOR,3264
+PBB3000,Pylontech Battery Bracket For Us3000,77
+NAX3KVA,Nexus Off Grid 3kva Inverter 24v Naxvm300024+,400
+SLK5W,Solar Lighting Kit 5w,34
+DCBC35MMB,Dc Battery Cable 35mm2 Black,11
+DCBP370W,DC BOOSTER PUMP NEXUS 370W 24V 0.5HP,59
+SUK2.5KVA,Sukam 2.5kva 48v Invertor,176
+WP30X,Nexus 3 Inch 5.5hp Petrol Water Pump,181
+SP1.0HP,Nexus 1.0hp (4sdm3-12) Submersible Pump,151
+BP0.75HP,Nexus 0.75hp (Jdtm750) Booster Pump,84
+NCS2200M,NEXUS MULTIFEED CORN SHELLER 2.2KW 2800RPM,505
+SP3HPQD3,Qd3-96.6-2.2 (3hp Slurry Pump 96m Head 1phase,278
+WM300A,Nexus 300a Arc Welding Machine,238
+MMA250,Nexus 180a Inverter Welding Machine,160
+NAG800,NEXUS ANGLE GRINDER 800W 115MM,27
+NEB800,NEXUS ELECTRIC BLOWER 800W 16000RPM,29
+NEP500,NEXUS ELECTRIC PLANER 500W 82MM 16000RPM,40
+NCD12,NEXUS CORDLESS DRILL 12V 23NM 10MM,57
+NAG1800,NEXUS ANGLE GRINDER 1800W 180MM,65
+NCID21,NEXUS CORDLESS IMPACT DRILL 21V 40NM 10MM,85
+18SF,Nexus Breeze 18 Inch Standing Fan,30
+HPC165,Nexus High Pressure Cleaner 110-165bar 1800w,124
+ECOMP50,Electric Compressor 50l,222
+COMP04,CROWNSUPRA 20HP PISTON AIR COMPRESSOR 200L,1150
+COMP01,Nexus 28hp Piston Air Compressor,1900
+EJH95,Nexus Electric Jack Hammer Nx95 (Nx168a),230
+BIT02,BIT FOR JACK HAMMER TYPE 38MM,13
+JH18,Nexus Jack Hammer Yt18,163
+JH24,Nexus Jack Hammer Yt24,290
+FCM400F,Nexus Concrete Mixer – 300ltr Mixing Capacity,2000
+ALT14HP,7.5 Kva 1ph Alternator For 14hp Engine(St7.5),380
+CS28HP,CROWNSUPRA 28HP MULTIPURPOSE DIESEL ENGINE,685
+NX20HP,Nexus 20hp Multipurpose Engine Zs1110,550
+NXGH,Nexus Gas Hose Per Meter,1
+NXSR,Nexus Swivel Regulator,7
+SICT,Nexus Self Igniting Cooker Top Nx102,14
+NX3KG,Nexus 3 Kg Gas Cylinder,25
+NX5KG,NEXUS 5KG GAS CYLINDER,30
+GH,NEXUS ROLL ABOUT GAS HEATER 3 PANEL,101
+AVR8KVA,8KVA AUTOMATIC VOLTAGE REGULATOR 1PHASE,217
+AVR15KVA,15KVA AUTOMATIC VOLTAGE REGULATOR 1PHASE,593
+BC52,Brush Cutter 52cc 1.5kw 2 Stroke,140
+BC62,Brush Cutter 62cc,150
+SDC250OF,Cummins 250kva Diesel 3ph Open Frame Generator,29733
+NX165AH,Nexus 165 Ah Battery,250
+SP3HP3P,Nexus 3hp (4sd3-30) 3phase Submersible Pump,257
+SP15HPQXNY,Submersible Slurry Pumps 15HP BOTTOM SUCTION 140M 3PH,1245
+DCWP1300W,DC WELL PUMP NEXUS 72V 70M HEAD 1.6HP,157
+CH19MM,COMPRESSOR HOSE 19MM 18MTR ROLL,38
+CH19MM50,COMPRESSOR HOSE 19MM 50MTR ROLL,115
+EM10HP2P3,ELECTRIC MOTOR 10HP 3PH 2POLE 7.5KW,240
+MAB550,Nexus Mining Air Blower 550W 3INCH,125
+MAB5.5,Nexus Mining Air Blower 5.5KW 7HP 3PHASE,580
+SFL100W,Nexus Solar Flood Light 100W LED,48
+NXLI75AH,NEXUS LITHIUM ION BATTERY 12V 75AH,230
+PP20MM,Polypipe 20MM Class 6 per 100M Roll,27
+PP32MM,Polypipe 32MM Class 6 per 100M Roll,41
+NEB800-1,Nexus Electric Blower 1200W,48
