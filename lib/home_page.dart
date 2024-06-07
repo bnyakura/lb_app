@@ -1,5 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
+import 'product_detail_page.dart'; // Import the new page
 
 class CRUDEoperation extends StatefulWidget {
   const CRUDEoperation({Key? key}) : super(key: key);
@@ -66,7 +67,7 @@ class _CRUDEoperationState extends State<CRUDEoperation> {
             print('Stream has data');
             final List<DocumentSnapshot> items = streamSnapshot.data!.docs
                 .where((doc) =>
-                doc['name'].toLowerCase().contains(searchText.toLowerCase()) ||
+            doc['name'].toLowerCase().contains(searchText.toLowerCase()) ||
                 doc['sku'].toLowerCase().contains(searchText.toLowerCase()))
                 .toList();
 
@@ -115,6 +116,14 @@ class _CRUDEoperationState extends State<CRUDEoperation> {
                           color: Colors.blue,
                         ),
                       ),
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => ProductDetailPage(documentSnapshot: documentSnapshot),
+                          ),
+                        );
+                      },
                     ),
                   ),
                 );

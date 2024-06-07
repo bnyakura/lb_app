@@ -17,7 +17,8 @@ class ImportData {
         final data = {
           'sku': row[0],
           'name': row[1],
-          'Price': row[2],
+          'description': row[2],
+          'Price': row[3],
         };
 
         await collection.doc(row[0]).set(data);
