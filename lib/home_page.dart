@@ -65,9 +65,11 @@ class _CRUDEoperationState extends State<CRUDEoperation> {
           if (streamSnapshot.hasData) {
             print('Stream has data');
             final List<DocumentSnapshot> items = streamSnapshot.data!.docs
-                .where(
-                  (doc) => doc['name'].toLowerCase().contains(searchText.toLowerCase()),
-            ).toList();
+                .where((doc) =>
+                doc['name'].toLowerCase().contains(searchText.toLowerCase()) ||
+                doc['sku'].toLowerCase().contains(searchText.toLowerCase()))
+                .toList();
+
             if (items.isEmpty) {
               print('No items found');
             } else {
@@ -77,6 +79,9 @@ class _CRUDEoperationState extends State<CRUDEoperation> {
               itemCount: items.length,
               itemBuilder: (context, index) {
                 final DocumentSnapshot documentSnapshot = items[index];
+                final String sku = documentSnapshot['sku'];
+                final String name = documentSnapshot['name'];
+
                 return Container(
                   decoration: BoxDecoration(
                     color: Colors.grey[100],
@@ -95,7 +100,7 @@ class _CRUDEoperationState extends State<CRUDEoperation> {
                     child: ListTile(
                       contentPadding: EdgeInsets.zero,
                       title: Text(
-                        documentSnapshot['name'],
+                        '$sku | $name',
                         style: TextStyle(
                           fontFamily: 'Inter',
                           fontSize: 15,
@@ -115,6 +120,7 @@ class _CRUDEoperationState extends State<CRUDEoperation> {
                 );
               },
             );
+
           }
 
           print('No data in stream');
